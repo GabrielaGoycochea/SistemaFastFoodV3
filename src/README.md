@@ -42,7 +42,7 @@ los cuales los repartidores deben cumplir los requerimientos antes de recoger al
  │        │     └──Repartidor.java
  │        │     └──ZonaDeCarga.java
  │        │       
- │        ├──UI                  
+ │        └──UI                  
  │            └── Main.java            
  │                          
  ├──  README.md                  
